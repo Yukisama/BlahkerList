@@ -1,6 +1,13 @@
-! Blahker for uBlock Origin
-! ported from: https://github.com/ethanhuang13/blahker
-! last update: 2017-12-04
+! Title: Blahker List
+! Expires: 30 days
+! Homepage: https://github.com/Yukisama/BlahkerList
+! Redirect: https://raw.githubusercontent.com/Yukisama/BlahkerList/master/blockerList.txt
+! Description: Blahker for uBlock Origin
+! Ported from: https://github.com/ethanhuang13/blahker
+! Origin Author: Ethan Huang
+! Origin License: MIT License
+! Converter: Yuki
+! Last update: 2017-12-04
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
