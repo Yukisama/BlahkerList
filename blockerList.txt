@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki
-! Last update: 2017-12-04
+! Last update: 2017-12-26
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -30,6 +30,7 @@
 ##.pop-ad-cover
 ##.pop-ad-cover.pop-ad-cover--deep
 ##div.mobile_AD
+##div[id^="innity_adslot"]
 ##vpon
 /sfpdpopexp.js
 ||ad_popup.html$domain=parenting.com.tw
@@ -89,8 +90,10 @@ ck101.com###pop_ad_mobile
 ck101.com##.a_cn
 ck101.com##.adfixWp
 ck101.com##.float_ad_gray_box
+ck101.com##.pi-Ad-mb-stick
 ck101.com##.pi-ck-mobile-2c-scroll-wrap
 ck101.com##.pi-ck-nav-wrap
+ck101.com##.videoAdWrapper
 clickme.net##.ADs.ArticleTop
 cna.com.tw##.fancybox-overlay
 cna.com.tw##.fancybox-wrap
