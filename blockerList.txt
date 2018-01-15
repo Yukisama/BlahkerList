@@ -6,8 +6,8 @@
 ! Ported from: https://github.com/ethanhuang13/blahker
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
-! Converter: Yuki
-! Last update: 2017-12-26
+! Converter: Yuki GUO
+! Last update: 2018-01-15
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -52,7 +52,6 @@
 ||jquery.fancybox.css$domain=cheers.com.tw
 ||jquery.magnific-popup.js$domain=mombaby.com.tw
 ||min$domain=buzzhand.com
-||output.min.js$domain=managertoday.com.tw
 ||proxy_174471.js$domain=thenewslens.com
 ||zone$domain=adaymag.com
 8drama.com###adoffno
@@ -85,6 +84,8 @@ changepw.com##.adbox-wrapper
 changepw.com##.ypabox-bg
 changepw.com##.ypabox-wrapper
 cheers.com.tw##.fancybox-overlay
+chinatimes.com###divBG.Bg
+chinatimes.com###google_image_div
 chinatimes.com###pagead_divBG
 ck101.com###pop_ad_mobile
 ck101.com##.a_cn
@@ -118,6 +119,7 @@ ettoday.net###adM09
 ettoday.net##.adM01
 ettoday.net##.adM02
 ettoday.net##.adM08
+ettoday.net##.idleAd
 everydayhealth.com.tw###div-gpt-ad-1472022102587-0
 everydayhealth.com.tw###popup-dfp
 everydayhealth.com.tw##.indexLightbox
@@ -260,4 +262,4 @@ xuite.net###rmiad
 yahoo.com###DARLAlyr
 yahoo.com###header-2-GoldenGate-Proxy
 yahoo.com##.darla
-yam.com###idle_lightbox 
+yam.com###idle_lightbox
