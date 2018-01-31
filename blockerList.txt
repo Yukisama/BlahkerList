@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-01-15
+! Last update: 2018-01-31
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -58,6 +58,7 @@
 92-tv.com##.fb_bg
 92-tv.com##.fb-box
 adaymag.com###apps-ad
+appledaily.com##.fancybox-overlay
 appledaily.com.tw###AdSameFullPanel
 appledaily.com.tw###apps-ad
 appledaily.com.tw###eyeDiv
@@ -87,6 +88,7 @@ cheers.com.tw##.fancybox-overlay
 chinatimes.com###divBG.Bg
 chinatimes.com###google_image_div
 chinatimes.com###pagead_divBG
+chinatimes.com##.lightbox_3min
 ck101.com###pop_ad_mobile
 ck101.com##.a_cn
 ck101.com##.adfixWp
@@ -161,6 +163,8 @@ ltn.com.tw###gwd-ad
 ltn.com.tw##.fb_mask
 ltn.com.tw##.google-image-div
 ltn.com.tw##.splash
+managertoday.com.tw###idle-win
+managertoday.com.tw##.modal-backdrop.fade.in
 mango02.com###ad-popup-dialog
 mango02.com###ad-popup-dialog-overlay
 mango02.com##.adbox-bg
@@ -182,6 +186,8 @@ nextmedia.com##.splash
 niusnews.com##.divLoginMask
 niusnews.com##.divMPop
 nownews.com###mui-overlay
+nownews.com##.backdropStyle_y02jly
+nownews.com##.dialog_1t36429
 nownews.com##.main-gift-div
 on.cc###mOverLay-container
 pchome.com.tw###admaskbg
