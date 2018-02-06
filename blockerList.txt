@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-01-31
+! Last update: 2018-02-06
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -253,6 +253,7 @@ twgreatdaily.com##.modal.fade
 twgreatdaily.com##.modal-backdrop.fade.in
 twpapa.com##.adbox-bg
 twpapa.com##.adbox-wrapper
+u-car.com.tw##.coverads
 udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.overlay-container
