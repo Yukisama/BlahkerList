@@ -198,6 +198,16 @@
   {
     "trigger": {
       "url-filter": ".*",
+      "if-domain": ["*udn.com"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": "#show_box"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
       "if-domain": ["*chinatimes.com"]
     },
     "action": {
@@ -929,6 +939,16 @@
   {
     "trigger": {
       "url-filter": ".*",
+      "if-domain": ["*juksy.com"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": ".juksyCover"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
       "if-domain": ["*vogue.com.tw"]
     },
     "action": {
@@ -1606,6 +1626,16 @@
   {
     "trigger": {
       "url-filter": ".*",
+      "if-domain": ["*bnext.com.tw"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": ".delay_full_cover_ad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
       "if-domain": ["*share.youthwant.com.tw"]
     },
     "action": {
@@ -1779,6 +1809,16 @@
     "action": {
     "type": "css-display-none",
     "selector": "#innity_adslot_174648"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": ["*appledaily.com.tw"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": "#OpenAd"
     }
   },
   {
@@ -2044,6 +2084,16 @@
     },
     "action": {
     "type": "css-display-none",
+    "selector": "#guru_mobile_popup_wrapper"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": ["*sina.com.hk"]
+    },
+    "action": {
+    "type": "css-display-none",
     "selector": ".guru_close_button_wrapper"
     }
   },
@@ -2259,6 +2309,15 @@
     "action": {
     "type": "css-display-none",
     "selector": ".coverads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": ["*zimgifts.bid"]
+    },
+    "action": {
+      "type": "block"
     }
   }
 ]

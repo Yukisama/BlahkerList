@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-03-01
+! Last update: 2018-04-04
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -33,6 +33,7 @@
 ##div[id^="innity_adslot"]
 ##vpon
 /sfpdpopexp.js
+||.*$domain=zimgifts.bid
 ||ad_popup.html$domain=parenting.com.tw
 ||adj.*php$domain=pad.skyozora.com
 ||adM.*js$domain=ettoday.net
@@ -63,6 +64,7 @@ appledaily.com.tw###AdSameFullPanel
 appledaily.com.tw###apps-ad
 appledaily.com.tw###eyeDiv
 appledaily.com.tw###innity_adslot_174648
+appledaily.com.tw###OpenAd
 appledaily.com.tw###panelContainerDiv
 appledaily.com.tw###panelShade
 appledaily.com.tw##.splash
@@ -72,6 +74,7 @@ bnext.com.tw###ad-pixfs
 bnext.com.tw###desktop_cover_ad
 bnext.com.tw###lightbox0_pdup
 bnext.com.tw##.bnextmeida-banner
+bnext.com.tw##.delay_full_cover_ad
 bomb01.com##.modal
 bunnygo.net###fancybox-close
 bunnygo.net###fancybox-content
@@ -150,6 +153,7 @@ jkforum.net###coverad
 joylah.com###popupBackground
 joylah.com###popupBox
 juksy.com###cover
+juksy.com##.juksyCover
 kikinote.net###Shadow
 kiwsy.com.hk###ad-popup-dialog
 kiwsy.com.hk###ad-popup-dialog-overlay
@@ -209,6 +213,7 @@ setn.com###ad_incover_container
 setn.com###float_ad
 share.youthwant.com.tw##.sitemaji_inters
 share.youthwant.com.tw##.slidead
+sina.com.hk###guru_mobile_popup_wrapper
 sina.com.hk##.guru_close_button_wrapper
 sina.com.hk##.guru_mobile_popup_wrapper
 sina.com.hk##.kiwi-ad-sticky-listing-bottom-mobile-wrapper
@@ -254,6 +259,7 @@ twgreatdaily.com##.modal-backdrop.fade.in
 twpapa.com##.adbox-bg
 twpapa.com##.adbox-wrapper
 u-car.com.tw##.coverads
+udn.com###show_box
 udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.overlay-container
