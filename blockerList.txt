@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-04-04
+! Last update: 2018-04-30
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -32,6 +32,10 @@
 ##div.mobile_AD
 ##div[id^="innity_adslot"]
 ##vpon
+*mook.com.tw###modal-one
+*mook.com.tw##.modal-dialog
+*upmedia.mg###maskfb
+*upmedia.mg###note_windows
 /sfpdpopexp.js
 ||.*$domain=zimgifts.bid
 ||ad_popup.html$domain=parenting.com.tw
@@ -176,13 +180,12 @@ mango02.com##.adbox-wrapper
 mobile01.com###Full_AD
 mobile01.com##.modal-backdrop.fade.in
 moneydj.com###MDJPageAD
-mook.com.tw###modal-one
-mook.com.tw##.modal-dialog
 mypaper.m.pchome.com.tw##.admaskbg
 mypaper.pchome.com.tw##.czy_layer
 mypaper.pchome.com.tw##.czy_wrapper
 natgeomedia.com##.ad-wrapper.mobile
 news.m.pchome.com.tw##.admaskbg
+newtalk.tw##iframe[src*="tamedia"]
 nextmag.com.tw###splashad
 nextmag.com.tw##.ad-320
 nextmag.com.tw##section.mod-wrapper.mod-ad.ad-320
@@ -244,6 +247,7 @@ teepr.com###popmake-overlay
 teepr.com###smaato_modalAd
 teepr.com##.fxMediaBox
 teepr.com##.popmake.size-custom.active.fixed.custom-position
+teepr.com##.pum-overlay
 teepr.com##.remodal-overlay
 teepr.com##.remodal-wrapper
 teepr.com##div[class^=remodal]
@@ -263,8 +267,6 @@ udn.com###show_box
 udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.overlay-container
-upmedia.mg###maskfb
-upmedia.mg###note_windows
 vogue.com.tw##.mask_off
 weibo.com###cboxOverlay
 weibo.com###colorbox

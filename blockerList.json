@@ -770,6 +770,16 @@
   {
     "trigger": {
       "url-filter": ".*",
+      "if-domain": ["*teepr.com"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": ".pum-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
       "if-domain": ["*ck101.com", "*dongtw.com"]
     },
     "action": {
@@ -2214,7 +2224,8 @@
   },
   {
     "trigger": {
-      "url-filter": ".*mook.com.tw"
+      "url-filter": ".*",
+      "if-domain": [".*mook.com.tw"]
     },
     "action": {
     "type": "css-display-none",
@@ -2223,7 +2234,8 @@
   },
   {
     "trigger": {
-      "url-filter": ".*mook.com.tw"
+      "url-filter": ".*",
+      "if-domain": [".*mook.com.tw"]
     },
     "action": {
     "type": "css-display-none",
@@ -2232,7 +2244,8 @@
   },
   {
     "trigger": {
-      "url-filter": ".*upmedia.mg"
+      "url-filter": ".*",
+      "if-domain": [".*upmedia.mg"]
     },
     "action": {
     "type": "css-display-none",
@@ -2241,7 +2254,8 @@
   },
   {
     "trigger": {
-      "url-filter": ".*upmedia.mg"
+      "url-filter": ".*",
+      "if-domain": [".*upmedia.mg"]
     },
     "action": {
     "type": "css-display-none",
@@ -2304,7 +2318,8 @@
   },
   {
     "trigger": {
-      "url-filter": ".*u-car.com.tw"
+      "url-filter": ".*",
+      "if-domain": ["*u-car.com.tw"]
     },
     "action": {
     "type": "css-display-none",
@@ -2318,6 +2333,16 @@
     },
     "action": {
       "type": "block"
+    }
+  },
+   {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": ["*newtalk.tw"]
+    },
+    "action": {
+    "type": "css-display-none",
+    "selector": "iframe[src*=\"tamedia\"]"
     }
   }
 ]
