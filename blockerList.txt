@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-04-30
+! Last update: 2018-06-01
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
