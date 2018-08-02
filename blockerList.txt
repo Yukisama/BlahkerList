@@ -1,5 +1,5 @@
 ! Title: Blahker List
-! Expires: 30 days
+! Expires: 90 days
 ! Homepage: https://github.com/Yukisama/BlahkerList
 ! Redirect: https://raw.githubusercontent.com/Yukisama/BlahkerList/master/blockerList.txt
 ! Description: Blahker for uBlock Origin
@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-07-02
+! Last update: 2018-08-02
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -63,7 +63,15 @@
 92-tv.com##.fb_bg
 92-tv.com##.fb-box
 adaymag.com###apps-ad
+appledaily.com###AdSameFullPanel
+appledaily.com###apps-ad
+appledaily.com###eyeDiv
+appledaily.com###innity_adslot_174648
+appledaily.com###OpenAd
+appledaily.com###panelContainerDiv
+appledaily.com###panelShade
 appledaily.com##.fancybox-overlay
+appledaily.com##.splash
 appledaily.com.tw###AdSameFullPanel
 appledaily.com.tw###apps-ad
 appledaily.com.tw###eyeDiv
@@ -104,6 +112,7 @@ ck101.com##.pi-Ad-mb-stick
 ck101.com##.pi-ck-mobile-2c-scroll-wrap
 ck101.com##.pi-ck-nav-wrap
 ck101.com##.videoAdWrapper
+ck101.com##div[id*="_ad_container"]
 clickme.net##.ADs.ArticleTop
 cna.com.tw##.fancybox-overlay
 cna.com.tw##.fancybox-wrap
