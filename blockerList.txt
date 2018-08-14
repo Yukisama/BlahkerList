@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-08-08
+! Last update: 2018-08-14
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -184,6 +184,7 @@ mango02.com##.adbox-bg
 mango02.com##.adbox-wrapper
 mobile01.com###Full_AD
 mobile01.com##.modal-backdrop.fade.in
+moneyaaa.com##.sitemaji_inters
 moneydj.com###MDJPageAD
 mook.com.tw###modal-one
 mook.com.tw##.modal-dialog
