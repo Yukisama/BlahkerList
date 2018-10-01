@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-08-14
+! Last update: 2018-10-01
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -96,11 +96,13 @@ changepw.com##.adbox-wrapper
 changepw.com##.ypabox-bg
 changepw.com##.ypabox-wrapper
 cheers.com.tw##.fancybox-overlay
+cheers.com.tw##div[id^="div-gpt-ad-"]
 chinatimes.com###divBG.Bg
 chinatimes.com###google_image_div
 chinatimes.com###pagead_divBG
 chinatimes.com##.lightbox_3min
 ck101.com###pop_ad_mobile
+ck101.com###popup201803
 ck101.com##.a_cn
 ck101.com##.adfixWp
 ck101.com##.float_ad_gray_box
@@ -266,6 +268,7 @@ thestandnews.com##.mobile-overlay
 toy-people.com##.fullBG
 toy-people.com##.PopupLayerBg
 tvbs.com.tw###one_ad_set_show
+tvbs.com.tw##.advertising_lightbox
 twgreatdaily.com##.modal.fade
 twgreatdaily.com##.modal-backdrop.fade.in
 twpapa.com##.adbox-bg
@@ -285,6 +288,7 @@ wetalk.tw###mobileModal
 wetalk.tw##.modal-backdrop.in
 xuite.net###rmiad
 xuite.net##hinetwork
+yahoo.com###crazyAD
 yahoo.com###DARLAlyr
 yahoo.com###header-2-GoldenGate-Proxy
 yahoo.com##.darla

@@ -1065,6 +1065,18 @@
     "trigger": {
       "url-filter": ".*",
       "if-domain": [
+        "*ck101.com"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#popup201803"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
         "*buzzhand.com"
       ]
     },
@@ -1094,6 +1106,18 @@
     "action": {
       "type": "css-display-none",
       "selector": "#one_ad_set_show"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*tvbs.com.tw"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".advertising_lightbox"
     }
   },
   {
@@ -1679,6 +1703,18 @@
     "trigger": {
       "url-filter": ".*",
       "if-domain": [
+        "*cheers.com.tw"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div[id^=\"div-gpt-ad-\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
         "*soft4fun.net"
       ]
     },
@@ -2119,6 +2155,18 @@
     "action": {
       "type": "css-display-none",
       "selector": ".darla"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*yahoo.com"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#crazyAD"
     }
   },
   {
