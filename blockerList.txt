@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-10-01
+! Last update: 2018-11-01
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -126,6 +126,7 @@ cw.com.tw##iframe#iframe
 dongtw.com##.adfixWp
 dramaq.cc##.sweet-alert
 dramaq.cc##.sweet-overlay
+ebc.net.tw###mobile-cover
 elle.com.tw###body-region
 eprice.com.hk###popup-ad-overlay
 eprice.com.hk##.ad-300x250-popup-g
@@ -278,6 +279,7 @@ udn.com###show_box
 udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.overlay-container
+udn.com##div[id^="div-gpt-ad-"]
 upmedia.mg###maskfb
 upmedia.mg###note_windows
 vogue.com.tw##.mask_off
