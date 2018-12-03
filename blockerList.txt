@@ -7,7 +7,7 @@
 ! Origin Author: Ethan Huang
 ! Origin License: MIT License
 ! Converter: Yuki GUO
-! Last update: 2018-11-01
+! Last update: 2018-12-03
 ###ad-full-page
 ###btn_close_ud
 ###btn_close_up
@@ -97,6 +97,7 @@ changepw.com##.ypabox-bg
 changepw.com##.ypabox-wrapper
 cheers.com.tw##.fancybox-overlay
 cheers.com.tw##div[id^="div-gpt-ad-"]
+chinatimes.com###div_pagead_bg
 chinatimes.com###divBG.Bg
 chinatimes.com###google_image_div
 chinatimes.com###pagead_divBG
@@ -119,6 +120,8 @@ coco01.net##.modal-backdrop.in
 cocomy.net###adModal
 cocomy.net###fbCover.promote-box.promote-box-fixed
 commonhealth.com.tw##iframe#iframe
+cool-style.com.tw##.adGeek-popup
+cool-style.com.tw##vmfive-ad-unit
 ctitv.com.tw###adover
 ctitv.com.tw##.blockUI.blockOverlay
 cw.com.tw##.animate
